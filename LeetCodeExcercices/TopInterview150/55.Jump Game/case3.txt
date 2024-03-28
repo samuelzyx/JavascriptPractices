@@ -1,0 +1,8 @@
+Input
+nums = [0]
+
+Output
+true
+
+Expected
+true
