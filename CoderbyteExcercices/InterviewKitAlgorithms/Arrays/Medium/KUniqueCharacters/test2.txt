@@ -1,0 +1,7 @@
+== INPUT ==
+"3aabacbebebe"
+
+== OUTPUT ==
+cbebebe
+
+<< CORRECT >>

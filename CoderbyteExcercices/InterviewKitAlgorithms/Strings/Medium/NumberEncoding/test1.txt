@@ -1,0 +1,7 @@
+== INPUT ==
+"jaj-a"
+
+== OUTPUT ==
+10110-1
+
+<< CORRECT >>

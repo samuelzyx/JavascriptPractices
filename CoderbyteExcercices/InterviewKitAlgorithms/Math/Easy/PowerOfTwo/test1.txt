@@ -1,0 +1,9 @@
+== RUNNING SAMPLE TEST CASES ==
+
+== INPUT ==
+4
+
+== OUTPUT ==
+true
+
+<< CORRECT >>

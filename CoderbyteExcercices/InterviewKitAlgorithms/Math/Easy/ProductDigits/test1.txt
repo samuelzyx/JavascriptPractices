@@ -1,0 +1,7 @@
+== INPUT ==
+6
+
+== OUTPUT ==
+2
+
+<< CORRECT >>

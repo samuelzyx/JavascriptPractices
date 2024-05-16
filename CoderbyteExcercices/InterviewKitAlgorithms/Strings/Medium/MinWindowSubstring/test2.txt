@@ -1,0 +1,7 @@
+== INPUT ==
+["ahffaksfajeeubsne", "jefaa"]
+
+== OUTPUT ==
+aksfaje
+
+<< CORRECT >>

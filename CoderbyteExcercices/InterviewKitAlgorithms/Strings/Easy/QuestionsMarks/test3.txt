@@ -1,0 +1,7 @@
+== INPUT ==
+"arrb6???4xxbl5???eee5"
+
+== OUTPUT ==
+true
+
+<< CORRECT >>

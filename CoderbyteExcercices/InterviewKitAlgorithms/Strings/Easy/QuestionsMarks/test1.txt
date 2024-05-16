@@ -1,0 +1,7 @@
+== INPUT ==
+"aa6?9"
+
+== OUTPUT ==
+false
+
+<< CORRECT >>

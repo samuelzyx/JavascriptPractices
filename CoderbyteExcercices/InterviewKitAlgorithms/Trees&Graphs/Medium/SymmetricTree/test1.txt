@@ -1,0 +1,7 @@
+== INPUT ==
+["4", "3", "4"]
+
+== OUTPUT ==
+false
+
+<< CORRECT >>

@@ -1,0 +1,9 @@
+== RUNNING SAMPLE TEST CASES ==
+
+== INPUT ==
+[5, 2, 4, 6]
+
+== OUTPUT ==
+2,3,4
+
+<< CORRECT >>

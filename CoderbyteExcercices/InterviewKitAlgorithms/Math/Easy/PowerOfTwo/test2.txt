@@ -1,0 +1,7 @@
+== INPUT ==
+124
+
+== OUTPUT ==
+false
+
+<< CORRECT >>

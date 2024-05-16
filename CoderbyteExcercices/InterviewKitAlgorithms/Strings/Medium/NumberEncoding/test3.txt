@@ -1,0 +1,7 @@
+== INPUT ==
+"abc"
+
+== OUTPUT ==
+123
+
+<< CORRECT >>

@@ -1,0 +1,7 @@
+== INPUT ==
+"c"
+
+== OUTPUT ==
+1
+
+<< CORRECT >>

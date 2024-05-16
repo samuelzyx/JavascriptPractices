@@ -1,0 +1,7 @@
+== INPUT ==
+"hello 45"
+
+== OUTPUT ==
+85121215 45
+
+<< CORRECT >>
